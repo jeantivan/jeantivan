@@ -17,6 +17,6 @@
 
 ### 📈 Stats
 <div display="inline">
-[![Jean Tivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeantivan&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeantivan&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=jeantivan&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeantivan&theme=gruvbox" />
 </div>  
