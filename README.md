@@ -18,5 +18,5 @@
 ### 📈 Stats
 <div display="inline">
 <img src="https://github-readme-stats.vercel.app/api?username=jeantivan&theme=gruvbox" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeantivan&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeantivan&theme=gruvbox&layout=compact" />
 </div>  
