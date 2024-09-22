@@ -1,10 +1,16 @@
+## <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="28"/> Hola!
+
 <img src="https://github.com/jeantivan/jeantivan/blob/main/Github-Banner.png" alt="JeanTivan GitHub README banner">
 
-- 🌍  Actualmente viviendo en Madrid, España 🇪🇸
-- 📬 You can contact me at [dev.jeantivan@gmail.com](mailto:dev.jeantivan@gmail.com)
+Soy un desarrollador web apasionado, autodidacta y en constante evolución. Nací en Venezuela, pero actualmente resido en Madrid, donde sigo explorando mi amor por la tecnología y el desarrollo web.
 
-### 🚀 Skills<p align="left">
+Mi enfoque está en crear soluciones innovadoras y eficientes, siempre con el usuario en mente. Me especializo en el desarrollo de aplicaciones web dinámicas y de alto rendimiento, combinando creatividad con código limpio y escalable.
 
+- 📬 Puedes contactarme al [dev.jeantivan@gmail.com](mailto:dev.jeantivan@gmail.com)
+
+### 🚀 Skills
+
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
