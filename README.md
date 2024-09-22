@@ -1,4 +1,4 @@
-<img src="https://github.com/jeantivan/jeantivan/blob/master/Github-Banner.png" alt="JeanTivan GitHub README banner">
+<img src="https://github.com/jeantivan/jeantivan/blob/main/Github-Banner.png" alt="JeanTivan GitHub README banner">
 
 - 🌍  Actualmente viviendo en Madrid, España 🇪🇸
 - 📬 You can contact me at [dev.jeantivan@gmail.com](mailto:dev.jeantivan@gmail.com)
