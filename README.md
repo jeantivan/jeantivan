@@ -23,7 +23,7 @@ Actualmente busco nuevas oportunidades profesionales donde pueda aportar valor t
 ### 📈 Estadísticas
 
 <div align="center">
-  <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=jeantivan&theme=chartreuse-dark&hide=prs,contribs&show_icons=true&icon_color=bdee63&bg_color=181917&title_color=bdee63&hide_border=true&locale=es" />
+  <img alt="My github stats" src="https://github-stats-extended.vercel.app/api??username=jeantivan&theme=chartreuse-dark&hide=prs,contribs&show_icons=true&icon_color=bdee63&bg_color=181917&title_color=bdee63&hide_border=true&locale=es" />
 </div>
 
 ---
