@@ -19,7 +19,6 @@ Actualmente busco nuevas oportunidades profesionales donde pueda aportar valor t
 *   **[ft_irc](https://github.com/jeantivan/ft_irc):** Servidor de comunicaciones concurrente programado en C++98. Implementa sockets no bloqueantes, multiplexación de I/O y cumple con el estándar RFC 2812.
 *   **[Minishell](https://github.com/jeantivan/42-minishell):** Intérprete de comandos Unix desarrollado en C. Interactúa directamente con el kernel de Linux gestionando system calls, descriptores de archivos, pipes y redirecciones.
 *   **[Inception](https://github.com/jeantivan/42-inception):** Infraestructura de red segura desplegada mediante Docker y Docker Compose en Alpine Linux, orquestando servicios web y bases de datos.
-*   **[Cub3D](link-a-tu-repo):** Motor de renderizado 3D creado desde cero en C. Utiliza algoritmos de Ray Casting, geometría y trigonometría para el cálculo de distancias y gestión de texturas a bajo nivel.
 
 ### 📈 Estadísticas
 
